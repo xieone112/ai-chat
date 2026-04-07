@@ -435,7 +435,7 @@ function speakLatestAssistantMessage() {
 
     <main class="chat-main">
       <header class="chat-header">
-        <span>语聊小精灵 · 智谱 AI</span>
+        <span>智语工作台 · 智谱 AI</span>
         <div class="header-actions">
           <input
             ref="importInputRef"
